@@ -1,0 +1,7 @@
+/home/miki/poly/.tox/py26/log$ ../bin/pip install --download-cache=/home/miki/poly/.tox/_download /home/miki/poly/.tox/dist/poly-0.1.zip >1.log
+Unpacking /home/miki/poly/.tox/dist/poly-0.1.zip
+  Running setup.py egg_info for package from file:///home/miki/poly/.tox/dist/poly-0.1.zip
+Installing collected packages: poly
+  Running setup.py install for poly
+Successfully installed poly
+Cleaning up...

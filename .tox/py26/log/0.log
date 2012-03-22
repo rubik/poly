@@ -1,0 +1,6 @@
+/home/miki/poly/.tox$ /usr/bin/python2.6 /usr/local/lib/python2.7/dist-packages/virtualenv.py --distribute --no-site-packages py26 >py26/log/0.log
+The --no-site-packages flag is deprecated; it is now the default behavior.
+New python executable in py26/bin/python2.6
+Also creating executable in py26/bin/python
+Installing distribute.............................................................................................................................................................................................done.
+Installing pip...............done.
