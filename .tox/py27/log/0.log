@@ -1,6 +1,0 @@
-/home/miki/poly/.tox$ /usr/bin/python2.7 /usr/local/lib/python2.7/dist-packages/virtualenv.py --distribute --no-site-packages py27 >py27/log/0.log
-The --no-site-packages flag is deprecated; it is now the default behavior.
-New python executable in py27/bin/python2.7
-Also creating executable in py27/bin/python
-Installing distribute.............................................................................................................................................................................................done.
-Installing pip...............done.
