@@ -6,7 +6,7 @@ from poly import Poly, monomial
 def pass_to(func, convert=(True, True), star=False):
     def wrapper(meth):
         def inner(self):
-            for value, expected in meth(self).iteritems():
+            for value, expected in meth(self).items():
                 if convert[0] and not star:
                     value = Poly(value)
                 if convert[1]:

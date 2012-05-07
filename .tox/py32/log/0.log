@@ -1,0 +1,6 @@
+/home/miki/poly/.tox$ /usr/bin/python3.2 /usr/lib/python2.7/site-packages/virtualenv.py --no-site-packages py32 >py32/log/0.log
+The --no-site-packages flag is deprecated; it is now the default behavior.
+New python executable in py32/bin/python3.2
+Also creating executable in py32/bin/python
+Installing distribute............................................................................................................................................................................................................................................................................................................................................................done.
+Installing pip...............done.
