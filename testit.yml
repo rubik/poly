@@ -8,4 +8,6 @@ runners:
     pylint:
         code_path:
             poly
+        options:
+            -f: colorized
     pep8:
