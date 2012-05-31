@@ -1,0 +1,11 @@
+deps:
+    - pytest
+    - pylint
+runners:
+    pytest:
+        test_path:
+            tests
+    pylint:
+        code_path:
+            poly
+    pep8:
