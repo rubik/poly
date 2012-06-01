@@ -11,3 +11,5 @@ runners:
         options:
             -f: colorized
     pep8:
+success:
+    - pytest
