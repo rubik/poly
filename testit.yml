@@ -1,6 +1,7 @@
 deps:
     - pytest
     - pylint
+    - pep8
 runners:
     pytest:
         test_path:
