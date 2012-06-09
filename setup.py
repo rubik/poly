@@ -13,7 +13,7 @@ setup(name='poly',
       platforms='any',
       classifiers=['Topic :: Scientific/Engineering :: Mathematics',
                    'Intended Audience :: Science/Research',
-                   'License :: OSI Approved :: ' \
+                   'License :: OSI Approved :: '
                         'GNU General Public License (GPL)',
                    'Natural Language :: English',
                    'Operating System :: OS Independent',
